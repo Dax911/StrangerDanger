@@ -1,0 +1,89 @@
+
+
+Public Class Form1
+    Private Sub PictureBox2_Click(sender As Object, e As EventArgs)
+
+        Imports Microsoft.DirectX.AudioVideoPlayback
+        Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Dim videoFile As Audio = New Audio("Z:\Render\BONUS - w- Credits!")
+        videoFile.Owner = Panel1
+        videoFile.Play()
+
+    End Sub
+
+
+    Module Mod1
+
+
+        Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+
+
+
+
+        Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+        Sub Load()
+            Public Shared Function Open(
+            Dim path As String = ""
+        End Sub
+
+            End Sub
+
+
+        Dim Input As String
+            Dim Room1 As String
+            Dim Room2 As String
+
+        Class Eleven
+            Dim Name As String = "Eleven"
+            Dim ImagePath As String = "H:\StrngrThngsImages/Eleven.png"
+            Dim Image As Bitmap
+            Dim NewImage As Image = Image.FromFile(ImagePath)
+            Dim BaseMagicAttack As Double
+            Dim BaseMelee As Double
+            Dim Speed As Double
+            Dim Health As Double
+            Dim Endurance As Double
+            Dim Size As Double
+            Dim Stealth As Double
+        End Class
+
+
+    End Module
+
+    Private Sub ListBox6_Text_Changed(sender As Object, e As EventArgs) Handles ListBox6.TextChanged
+
+        Me.displayText.Text += "Welcome to Stranger Danger"
+        Me.displayText.Text += "In classic form to play this game, please type short phrases into the command line below."
+        Me.displayText.Text += "If you type the word look, the game gives you a description of your surroundings."
+        Me.displayText.Text += "Get, drop, and throw helps you interact with objects."
+        Me.displayText.Text += "Part of this game is trying out different commands and seeing what happens."
+        Me.displayText.Text += "Type help at any time for game instructions."
+        Me.displayText.Text += "Would you like more instructions? Type help for Help or type Begin/start/go to start the game."
+
+        'the condition handler for response'
+
+        Select Case Yes
+        Me.displayText.Text += "Well "
+
+            Dim Begin As String = "Begin" Or "begin" Or "Start" Or "start" Or "Go" Or "go"
+
+            Select Case Begin
+                Me.displayText.Text += "You have awoken in a dark, mysterious place."
+                Me.displayText.Text += "You awaken in a dark twilight type zone. The air around you is thick, soupy "
+                Me.displayText.Text += "and has gently luminous spores floating everywhere.  There's a small alcove to the east.  "
+                Me.displayText.Text += "There is darkness in the rest of the tunnels the spores become black and ashy.  The air "
+                Me.displayText.Text += "feels malevolent dangerous … wait there is a sign it reads,"
+                Me.displayText.Text += "Welcome to the Tunnels to the Upside Down!"
+
+                Dim MoreInfo As String = "The Upside Down is an alternate dimension existing in parallel to the human world. It contains the same locations and infrastructure as the human world, but it is much darker, colder and obscured by an omnipresent fog. The Upside Down is devoid of human life, instead being overgrown with ropy, root-like tendrils and biological membranes covering practically every surface. At least one recognizable animal, a humanoid creature, is native to this dimension, while ash-like spores float in the air.
+Right now you are in the tunnels under Hawkins you need to get out before you succumb to the toxic atmosphere or get sucked into the Upside Down or get hunted down by one of the many Upside Down creatures or something worse happens.  PS This room will soon be overcome by the darkness as well.
+Sincerely 1"
+                End Sub Private Class Vars
+
+    End Sub
+
+    Private Sub ListBox6_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListBox6.SelectedIndexChanged
+
+    End Sub
+
+    
